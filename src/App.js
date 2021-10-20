@@ -1,12 +1,13 @@
-import logo from './logo.svg';
+
 import './App.css';
-import ApiFetch from './apifetch';
+import StarRating from './starrating';
+//import ApiFetch from './apifetch';
 function App() {
   return (
     <div className="App">
       
-      <ApiFetch />
-
+      {/*<ApiFetch />*/}
+     <StarRating />
       
       
     </div>
